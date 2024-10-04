@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Manthan666
+- 👋 Hi, I’m @Manthan-Parekh7
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++ , HTML , CSS , etc ...
+- 🌱 I’m currently learning DSA , DBMS , JavaScript etc ...
 - 📫 How to reach me : www.linkedin.com/in/manthan-parekh-442038278
 
 <!---
