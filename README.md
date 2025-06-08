@@ -41,7 +41,7 @@
 </div>
 
 ### 💻 **Programming Languages**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&shadow=0px_4px_8px_rgba(0,89,156,0.3)"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&shadow=0px_4px_8px_rgba(0,89,156,0.3)"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&shadow=0px_4px_8px_rgba(237,139,0,0.3)"/>
@@ -51,7 +51,7 @@
 </div>
 
 ### 🌐 **Web Development**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -59,7 +59,7 @@
 </div>
 
 ### 🔧 **Frameworks & Backend**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -68,7 +68,7 @@
 </div>
 
 ### 🤖 **Machine Learning & Data Science**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -81,7 +81,7 @@
 </div>
 
 ### 🗄️ **Databases**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -89,13 +89,13 @@
 
 
 ### 🚀 **Deployment & Hosting**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white"/>
 </div>
 
 ### 🧰 **Tools & Platforms**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
@@ -151,9 +151,7 @@
 - **Natural Language Processing**: Building intelligent text processing systems  
 - **Machine Learning Algorithms**: Implementing and optimizing ML models
 - **Full-Stack Development**: Creating end-to-end web applications
-- **System Design**: Architecting scalable and efficient solutions
-- **Cloud Deployment**: Deploying applications using modern hosting platforms
-  
+
 </div>
 
 </div>
