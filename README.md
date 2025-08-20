@@ -155,8 +155,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="300">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p>
 <a href="https://www.linkedin.com/in/manthan-parekh-442038278">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px_4px_15px_rgba(0,119,181,0.4)" alt="LinkedIn">
