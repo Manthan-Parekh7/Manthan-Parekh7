@@ -137,8 +137,6 @@
 
 ## 🎯 **Learning Journey**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="left">
@@ -183,8 +181,6 @@
 ### **Thanks for visiting my profile!**
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-**_"This is just the beginning of my journey in the tech world, and I'm excited to grow, learn, and contribute to the amazing world of technology and artificial intelligence!"_**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Learning%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
