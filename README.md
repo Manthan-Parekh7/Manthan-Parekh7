@@ -125,10 +125,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan-Parekh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-Parekh7&custom_title=Manthan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph">
-</div>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
