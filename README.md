@@ -63,7 +63,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=rest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white"/>
 </div>
 
 ### 🤖 **Machine Learning & Data Science**
