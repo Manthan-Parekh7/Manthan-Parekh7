@@ -2,15 +2,15 @@
 
 # 👋 Hi, I'm **Manthan Parekh**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+%2B+AI+Pipeline+Developer+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=Full+Stack+%2B+AI+Pipeline+Developer" alt="Typing Animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=40&lines=Building+Products+That+Impact+The+World+%F0%9F%8C+%0F" alt="Typing Animation 2"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&height=40&lines=Building+Products+That+Impact+The+World" alt="Typing Animation 2"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A8FF78&center=true&vCenter=true&width=700&height=40&lines=Integrating+AI+%2F+ML+Into+Real+Applications+%F0%9F%A4%96" alt="Typing Animation 3"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A8FF78&center=true&vCenter=true&width=750&height=40&lines=Integrating+AI+%2F+ML+Into+Real+Applications" alt="Typing Animation 3"/>
 
 <br/><br/>
 
@@ -153,7 +153,7 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="NumPy"/><br/>
       <sub><b>NumPy</b></sub>
     </td>
     <td align="center" width="110">
@@ -161,19 +161,19 @@
       <sub><b>Scikit-Learn</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TF"/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TF-IDF"/><br/>
       <sub><b>TF-IDF</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="NLP"/><br/>
       <sub><b>NLP / spaCy</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/-Ollama-000?style=flat&logo=ollama&logoColor=white" height="28"/><br/><br/>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="32" alt="Ollama"/><br/><br/>
       <sub><b>Ollama (Local LLMs)</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/-RAG%20Pipelines-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28"/><br/><br/>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="RAG"/><br/><br/>
       <sub><b>RAG Pipelines</b></sub>
     </td>
   </tr>
@@ -203,12 +203,12 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/><br/>
       <sub><b>SQLite</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle"/><br/>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="32" alt="Oracle SQL"/><br/><br/>
       <sub><b>Oracle SQL</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/-FAISS-009688?style=flat&logo=meta&logoColor=white" height="28"/><br/><br/>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=meta&logoColor=white" height="32" alt="FAISS"/><br/><br/>
       <sub><b>FAISS (Vector DB)</b></sub>
     </td>
   </tr>
@@ -224,8 +224,8 @@
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
       <sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker Compose"/><br/>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" alt="Docker Compose"/><br/><br/>
       <sub><b>Docker Compose</b></sub>
     </td>
     <td align="center" width="100">
@@ -235,10 +235,6 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/>
       <sub><b>AWS ☁️</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br/>
-      <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
@@ -259,16 +255,16 @@
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/>
       <sub><b>Netlify</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render"/><br/>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="32" alt="Render"/><br/><br/>
       <sub><b>Render</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=digitalocean" width="48" height="48" alt="DigitalOcean"/><br/>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="32" alt="DigitalOcean"/><br/><br/>
       <sub><b>DigitalOcean</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/-PythonAnywhere-1D9FD7?style=flat&logo=pythonanywhere&logoColor=white" height="28"/><br/><br/>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" height="32" alt="PythonAnywhere"/><br/><br/>
       <sub><b>PythonAnywhere</b></sub>
     </td>
   </tr>
@@ -300,12 +296,12 @@
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/>
       <sub><b>Postman</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/><br/>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32" alt="Jupyter"/><br/><br/>
       <sub><b>Jupyter</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=googlecolab" width="48" height="48" alt="Colab"/><br/>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="32" alt="Google Colab"/><br/><br/>
       <sub><b>Google Colab</b></sub>
     </td>
   </tr>
@@ -321,9 +317,9 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manthan-Parekh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://nice-readme.vercel.app/stats?username=Manthan-Parekh7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthan-Parekh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://nice-readme.vercel.app/stats?username=Manthan-Parekh7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&only_top_langs=true" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -332,6 +328,34 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-Parekh7&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🏆 Competitive Programming
+
+<br/>
+
+<a href="https://leetcode.com/u/Manthan__Parekh____7/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Manthan__Parekh____7?theme=dark&font=Roboto&ext=heatmap&hide_border=true&border_radius=10" alt="LeetCode Stats" width="495"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Manthan__Parekh____7/">
+  <img src="https://img.shields.io/badge/LeetCode-Manthan__Parekh____7-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/manthan_parekh_7">
+  <img src="https://img.shields.io/badge/Codeforces-manthan__parekh__7-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/manthanparekh1">
+  <img src="https://img.shields.io/badge/CodeChef-manthanparekh1-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
 </div>
 
@@ -369,9 +393,21 @@
 <a href="https://www.linkedin.com/in/manthan-parekh-442038278">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:manthanparekh455@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Manthan__Parekh____7/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/manthan_parekh_7">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/manthanparekh1">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
 </a>
 
 <br/><br/>
