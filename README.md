@@ -207,10 +207,6 @@
       <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="32" alt="Oracle SQL"/><br/><br/>
       <sub><b>Oracle SQL</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=meta&logoColor=white" height="32" alt="FAISS"/><br/><br/>
-      <sub><b>FAISS (Vector DB)</b></sub>
-    </td>
   </tr>
 </table>
 
