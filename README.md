@@ -41,7 +41,7 @@
 | 🖥️ **Frontend** | React, Next.js, Tailwind CSS |
 | ⚙️ **Backend** | Node.js + Express, Spring Boot, FastAPI, Django |
 | 🤖 **AI / ML** | RAG Pipelines, Ollama (Local LLMs), Scikit-learn, NLP |
-| 🗄️ **Databases** | MongoDB, PostgreSQL, MySQL, FAISS (Vector DB) |
+| 🗄️ **Databases** | MongoDB, PostgreSQL, MySQL, FAISS (Vector Search) |
 | 🐳 **DevOps** | Docker, Docker Compose, CI/CD, GitHub Actions |
 | ☁️ **Cloud** | AWS (Learning), DigitalOcean, Vercel, Render |
 
